@@ -1,0 +1,16 @@
+{
+  "name": "no-frill-tokenizer",
+  "version": "0.0.1",
+  "description": "A no-frills tokenizer that uses regexes to chew up strings and spit out tokens.  No streaming support or anything like that.",
+  "main": "./index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tokenizer",
+    "basic",
+    "no-frills"
+  ],
+  "author": "Joseph Sikorski <joedski@gmail.com>",
+  "license": "ISC"
+}
