@@ -1,5 +1,5 @@
 {
-  "name": "no-frill-tokenizer",
+  "name": "no-frills-tokenizer",
   "version": "0.0.1",
   "description": "A no-frills tokenizer that uses regexes to chew up strings and spit out tokens.  No streaming support or anything like that.",
   "main": "./index",
